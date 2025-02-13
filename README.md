@@ -1,4 +1,4 @@
-<h2 align="left">Hello my name is Alana Lisbinski i´ḿ system programming</h2>
+<h2 align="left">Hello my name is Alana Lisbinski i working a system programming</h2>
 
 ###
 
