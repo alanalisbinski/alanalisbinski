@@ -1,4 +1,4 @@
-<h2 align="left">I'm a programming developer...</h2>
+<h2 align="left">Turning coffee and logic into solutions.</h2>
 
 ###
 
