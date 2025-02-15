@@ -118,5 +118,4 @@
 <br>
 <hr>
 <br>
-<p>Credit: <a href="https://github.com/alanalisbinski">Abdul Khalid</a></p>
 <p>Last Edited on: 15/03/2023</p> 
