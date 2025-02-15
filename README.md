@@ -42,24 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 <img src="https://raw.githubusercontent.com/alanalisbinski/alanalisbinski/output/snake.svg" alt="Snake animation" />
 
 ###
