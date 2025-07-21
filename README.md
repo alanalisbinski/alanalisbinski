@@ -1,4 +1,4 @@
-<!-- Banner Coffee Aesthetic -->
+<!-- Banner com Aesthetic de Café -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVvb3Jyd3k3Zjd1dTNrdG5vYmttbnhxNDFlaTVzbnkyenR3YmlydyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vvXgQ1y3LyE7X1wj8T/giphy.gif" width="400"/>
 </p>
@@ -13,24 +13,40 @@
 
 ### 🐾 Sobre mim
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF5eWo5cDRhNXRyNzBnbmhreXAzMGdrMWZ2eGU0dm1vbDZwMGx0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
+</p>
+
 ```python
-class Alana:
+class CoffeeDev:
     def __init__(self):
-        self.coffee = "always hot"
-        self.focus = ["mobile", "frontend", "backend"]
-        self.stack = ["HTML", "CSS", "JavaScript", "Python", "React Native"]
-        self.learning = ["Node.js", "UI/UX", "TypeScript"]
+        self.name = "Alana ☕"
+        self.mood = "Codando com o som da chuva e café do lado."
+        self.specialties = ["HTML", "CSS", "JavaScript", "Python", "React Native"]
+        self.aesthetic = "Brown/Coffee + Dark Mode"
+        self.vibe = "💻 + 🐱 + 🎧 + ☕"
 
-    def drink_coffee(self):
-        return "Productivity 110% 🚀"
+    def work(self):
+        return "Transformando cafeína em código desde sempre..."
 
-<p align="center"> <img src="https://img.shields.io/badge/-HTML5-8B5E3C?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-A47148?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-B98160?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-9C7C6E?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-React%20Native-6E4B3A?style=for-the-badge&logo=react&logoColor=white"/> </p>
+📊 Status do GitHub
 
+
+🐱 Cat Vibes While Coding
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc1OXNyZGJkN3drZGU2M2VydXozZ3V2ZWFmb2p1dWllOWZxaHd4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tBxyh2hbwMiqc/giphy.gif" width="300"/> </p>
+🎧 Enquanto programo...
+🎶 Lofi, darkwave ou uma playlist com PinkPantheress e Kuiper.
 
-📬 Me encontre por aí
-✉️ Email: alanalisbinski9@email.com
+☔ Ambiente perfeito: chuva do lado de fora e VSCode aberto.
 
-💼 Portfólio: [em breve...]
+🐈 Um GIF de gatinho marrom sempre por perto.
 
-💻 Projetos em destaque no GitHub abaixo!
+💡 Projetando sistemas, interfaces e experiências que tenham alma.
+
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3E3djZhbmdodXZ3azA3YmlsbXY5bzZqdnFqZWh1Z2N6bG53cmR0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="350"> </p>
+📬 Onde me encontrar
+✉️ Email: seuemail@email.com
+
+💼 Portfólio: em breve...
+
+💻 Projetos em destaque abaixo!
