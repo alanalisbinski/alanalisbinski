@@ -17,6 +17,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF5eWo5cDRhNXRyNzBnbmhreXAzMGdrMWZ2eGU0dm1vbDZwMGx0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
 </p>
 
+ <p> Olá me chamo Alana Cristina Lisbinski e faço curso de desenvolvimento de sistemas, aprendi a trabalhar com HTML5, CSS, Python, JavaScript e também com React Native, atualmente tenho 17 anos, gosto muito de desenvolver sites e jogos, também amo café, chuva e música, gosto de trablhar em casa. </p>
+   
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDExZGdtb3JzNDBjbzY2aGh6ejFqeGVhbnh2aWx0ajBnMGx4aW41cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTfx2qLszoacZRS/giphy.gif" width="270">
 </p>
