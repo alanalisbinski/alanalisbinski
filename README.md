@@ -1,6 +1,6 @@
 <!-- Banner com Aesthetic de Café -->
 <p align="center">
-  <img src="https:https://media.giphy.com/media/J4QOqY9z5pUbe/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" style="width: 100%; height: auto;" />
 </p>
 
 <h1 align="center">☕ Hello, world! I'm <strong>Alana Lisbinski</strong> 🍫</h1>
