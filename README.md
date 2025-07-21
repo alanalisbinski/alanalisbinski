@@ -17,17 +17,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWF5eWo5cDRhNXRyNzBnbmhreXAzMGdrMWZ2eGU0dm1vbDZwMGx0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="250">
 </p>
 
-<span style="font-family:monospace; color:#d4af91;">
-class <strong>CoffeeDev</strong>:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;def __init__(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.name = "Alana ☕"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.vibe = "💻 + 🐱 + 🎧 + ☕"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.stacks = ["HTML", "CSS", "JavaScript", "Python", "React Native"]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.interests = ["Crimes psicológicos", "Jogos indie", "Pixel art", "Espiritismo"]<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;def code(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return "Transformando café e ideias em sistemas com alma..."<br>
-</span>
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDExZGdtb3JzNDBjbzY2aGh6ejFqeGVhbnh2aWx0ajBnMGx4aW41cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4pTfx2qLszoacZRS/giphy.gif" width="270">
 </p>
