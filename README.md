@@ -65,5 +65,5 @@
 - 🐈 Um GIF de gatinho por perto.
 
 <p align="center">
-  <img src="https://images.app.goo.gl/TYF5YqimkWERq6cJ6" width="300" />
+  <img src="https://images.app.goo.gl/SRZWghtnVPkWBWuw8" width="300" />
 </p>
