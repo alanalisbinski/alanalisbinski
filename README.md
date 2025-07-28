@@ -9,7 +9,7 @@
 ### 🐾 Sobre mim
 
 <p align="center">
-  <img src="https://pin.it/6EqTtb3ZN" />
+  <img src="/assets/anime-cat.gif" />
 </p>
 
  <p> Olá me chamo Alana Cristina Lisbinski e faço curso de desenvolvimento de sistemas, aprendi a trabalhar com HTML5, CSS, Python, JavaScript e também com React Native, atualmente tenho 17 anos, gosto muito de desenvolver sites e jogos, também amo café, chuva e música, gosto de trablhar em casa. </p>
