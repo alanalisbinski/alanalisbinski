@@ -65,5 +65,5 @@
 - 🐈 Um GIF de gatinho por perto.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExvXZ7aMbI4hihW/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0ExvXZ7aMbI4hihW/giphy.gif" width="350" />
 </p>
