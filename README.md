@@ -65,6 +65,6 @@
 - 🐈 Um GIF de gatinho por perto.
 
 <p align="center">
-  <img src="https://media.tenor.com/7fW54xU52ZAAAAAi/anime-cat.gif
+  <img src="https://raw.githubusercontent.com/usuario/repositorio/main/assets/imagem.png"
   " width="350" />
 </p>
