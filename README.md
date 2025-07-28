@@ -64,6 +64,7 @@
 - ☕ Café na mão.
 - 🐈 Um GIF de gatinho por perto.
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="270" />
+  <img src="https://media.giphy.com/media/l0ExvXZ7aMbI4hihW/giphy.gif" width="270" />
 </p>
