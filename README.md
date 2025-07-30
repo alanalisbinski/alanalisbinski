@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1ik0u5dXUptl3NPgaf/giphy.gif" width="150" alt="pixel art cat" />
+  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="150" alt="pixel art cat" />
 </p>
 
 <h1 align="center">☕ Hello, world! I'm <strong>Alana Lisbinski</strong> 🍫</h1>
