@@ -7,8 +7,8 @@
 ---
 
 ## ✨ About Me
-- 🔭 Currently focusing on **[sua área principal, ex: Fullstack Development / Data Science / Backend]**  
-- 🌱 Learning and improving every day in **[coloque frameworks/linguagens que está estudando agora]**  
+- 🔭 Currently focusing on Full-Stack 
+- 🌱 Learning and improving every day in Javascript, Python and React Native.
 - 🎯 Goal: build efficient, creative, and scalable solutions  
 - ⚡ Fun fact: I learned English very young and love exploring different cultures 🌎  
 
