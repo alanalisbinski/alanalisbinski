@@ -41,7 +41,7 @@
 
 ## 📂 Featured Projects
 
-🚀 **[Project 1](https://github.com/alanalisbinski/ReliquiasdeValderia)** – Um joguinho de inventário finalizado desenvolvido em Python apartir de uma atividade escolar.
+🚀 **[Project 1](https://github.com/alanalisbinski/ReliquiasdeValderia)** –  A simple interface for a medieval RPG made in Python using the Tkinter library.
 
 ---
 
