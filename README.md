@@ -41,11 +41,7 @@
 
 ## 📂 Featured Projects
 
-🚀 **[Project 1](https://github.com/SEU_USUARIO/REPO1)** – breve descrição (ex.: Web app usando React + Node).  
-📊 **[Project 2](https://github.com/SEU_USUARIO/REPO2)** – breve descrição (ex.: Análise de dados com Python).  
-💡 **[Project 3](https://github.com/SEU_USUARIO/REPO3)** – breve descrição.  
-
-*(Atualize os links acima com seus projetos principais!)*
+🚀 **[Project 1](https://github.com/alanalisbinski/ReliquiasdeValderia)** – Um joguinho de inventário finalizado desenvolvido em Python apartir de uma atividade escolar.
 
 ---
 
