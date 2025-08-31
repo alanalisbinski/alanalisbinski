@@ -17,10 +17,12 @@
 ## 🛠 Tech Stack
 
 <p align="center">
+  
   <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Code-C++-lightgrey?style=for-the-badge&logo=c%2B%2B" />
 
   <br/>
 
