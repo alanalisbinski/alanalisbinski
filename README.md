@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Cute Banner" width="450"/>
+  <img src=""https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cute Banner" width="450"/>
 </p>
 
 <h1 align="center">🌸 Olá, eu sou a Alana! 🌸</h1>
