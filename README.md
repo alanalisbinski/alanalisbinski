@@ -1,69 +1,88 @@
-<!-- Banner -->
-<h1 align="center">👩‍💻 Hey, I'm Alana Lisbinski</h1>
 <p align="center">
-  🌍 Developer | 💻 Passionate about technology | 🚀 Always learning  
+  <img src="https://media.giphy.com/media/3ohhwH6B1qLrRty4dy/giphy.gif" alt="Cute Banner" width="500"/>
+</p>
+
+<h1 align="center">🌸 Olá, eu sou a Alana! 🌸</h1>
+<p align="center">✨ Bem-vindo(a) ao meu cantinho digital cheio de fofura, magia e criatividade! ✨</p>
+
+---
+
+## 💖 Sobre mim
+- 🐹 Apaixonada por **Python, HTML/CSS, JavaScript**  
+- 🌷 Amante de **UI/UX delicado** e projetos minimalistas  
+- 📚 Sempre aprendendo coisas novas e explorando novas tecnologias  
+- 🌙 Café, playlists indie e lua cheia: minhas energias criativas  
+- 🦄 Acredito que um toque de fofura deixa tudo melhor ✨  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Gif" width="350"/>
 </p>
 
 ---
 
-## ✨ About Me
-- 🔭 Currently focusing on Full-Stack 
-- 🌱 Learning and improving every day in Javascript, Python and React Native.
-- 🎯 Goal: build efficient, creative, and scalable solutions  
-- ⚡ Fun fact: I learned English very young and love exploring different cultures 🌎  
+## ✨ Meus Projetos
+
+| Projeto | Descrição | Linguagem |
+|---------|-----------|-----------|
+| 🐉 **RPG Encantado** | Um RPG simples feito com Tkinter | Python |
+| ☕ **Café Virtual** | Protótipo de uma cafeteria online | HTML/CSS |
+| 🎨 **Pixel Dreams** | Pequenos jogos em pixel art | JavaScript |
+| 🌸 **Portfolio Coquette** | Meu portfólio cheio de fofura e cores suaves | HTML/CSS/JS |
+
+> Todos os meus projetos são feitos com 💖 e um toque de magia ✨  
 
 ---
 
-## 🛠 Tech Stack
+## 🌸 Minhas Skills
 
 <p align="center">
-  
-  <!-- Linguagens -->
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Code-Java-red?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/Code-C++-lightgrey?style=for-the-badge&logo=c%2B%2B" />
-
-  <br/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-  <br/>
-
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FCA7C7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-FCBBF1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-FFC0CB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" alt="JS"/>
+  <img src="https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"/>
 </p>
-
----
-
-## 📂 Featured Projects
-
-🚀 **[Project 1](https://github.com/alanalisbinski/ReliquiasdeValderia)** –  A simple interface for a medieval RPG made in Python using the Tkinter library.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamealanalisbinski&layout=compact&theme=react" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌷 Me conecte comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto: alanalisbinski9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://twitter.com/seudoguinho">
+    <img src="https://img.shields.io/badge/Twitter-@seudoguinho-FFB6C1?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/seuperfil">
+    <img src="https://img.shields.io/badge/Instagram-@seuperfil-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-seuemail%40exemplo.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seulinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-@seulinkedin-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Cute Footer" width="350"/>
 </p>
 
 ---
 
-✨ _“Code is like magic — when it works, it feels amazing.”_
+## 🌸 Curiosidades
+- 🍰 Adoro doces, especialmente macarons rosas  
+- 🖌️ Sempre desenho ideias fofas e coloridas  
+- 🐹 Meu mascote favorito é o hamster  
+- 🎶 Música é minha inspiração diária  
+
+---
+
+🌷 Obrigada por visitar meu cantinho! Espero que aqui você encontre **alegria, fofura e inspiração** 💖  
