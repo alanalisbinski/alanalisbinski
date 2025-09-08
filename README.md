@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/LinkedIn@alanalisbinski-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA">
-  <img src="https://img.shields.io/badge/Portfólio-@MeuPortifolio-FFC0CB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfólio-@Portifolio-FFC0CB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
