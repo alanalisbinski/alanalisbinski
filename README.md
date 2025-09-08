@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Email-alanalisbinski-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn@alanalisbinski-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=g&logoColor=white"/>
   </a>
 </p>
 
