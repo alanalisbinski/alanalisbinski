@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=""https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cute Banner" width="450"/>
-</p>
-
 <h1 align="center">🌸 Olá, eu sou a Alana! 🌸</h1>
 <p align="center">✨ Bem-vindo(a) ao meu cantinho digital cheio de fofura, magia e criatividade! ✨</p>
 
@@ -13,10 +9,6 @@
 - 📚 Sempre aprendendo coisas novas e explorando novas tecnologias  
 - 🌙 Café, playlists indie e lua cheia: minhas energias criativas  
 - 🦄 Acredito que um toque de fofura deixa tudo melhor ✨  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Coding Gif" width="350"/>
-</p>
 
 ---
 
@@ -30,7 +22,7 @@
 | 🌸 **Portfolio Coquette** | Meu portfólio cheio de fofura e cores suaves | HTML/CSS/JS |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsl8aD2Ey3eJQ5q/giphy.gif" alt="Project Gif" width="350"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Project Gif" width="350"/>
 </p>
 
 > Todos os meus projetos são feitos com 💖 e um toque de magia ✨  
