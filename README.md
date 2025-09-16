@@ -62,9 +62,8 @@
   </a>
   
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Cute Footer" width="350"/>
