@@ -58,7 +58,7 @@
   </a>
   
   <a href="mailto:contato.alanalisbinski@gmail.com">
-    <img src="https://img.shields.io/badge/contato.alanalisbinski@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>  
+    <img src="https://img.shields.io/badge/Email-alanalisbinski-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>  
   </a>
   
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376">
