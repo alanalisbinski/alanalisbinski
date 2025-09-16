@@ -57,8 +57,9 @@
   <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3W">
     <img src="https://img.shields.io/badge/Portfólio-alanalisbinski-FFC0CB?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="E-mail">
-    <img src="https://img.shields.io/badge/Email-contato.alanalisbinski@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/Email-contatoalanalisbinski@gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    
   </a>
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=g&logoColor=white"/>
