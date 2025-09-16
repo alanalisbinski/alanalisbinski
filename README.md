@@ -53,16 +53,16 @@
 ## 🌷 Me conecte comigo
 
 <p align="center">
- 
-  <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3W">
+  <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/">
     <img src="https://img.shields.io/badge/Portfólio-alanalisbinski-FFC0CB?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="contato.alanalisbinski@gmail.com">
+  
+  <a href="mailto:contato.alanalisbinski@gmail.com">
     <img src="https://img.shields.io/badge/contato.alanalisbinski@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>  
   </a>
-  <a href="https://contato.alanalisbinski@gmail.com/Contato-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3W">
-  <a href="https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=g&logoColor=white"/>
+  
+  <a href="https://www.linkedin.com/in/alana-lisbinski-869123376">
+    <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -81,3 +81,4 @@
 ---
 
 🌷 Obrigada por visitar meu cantinho! Espero que aqui você encontre **alegria, fofura e inspiração** 💖  
+ 
