@@ -62,7 +62,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376">
-    <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-alanalisbinski-FFC0CB?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
 </p>
 
