@@ -1,6 +1,6 @@
 # AlanaLisbinski
 
-Desenvolvedora de software com experiência em múltiplas linguagens de programação, comprometida com a criação de soluções eficientes e escaláveis. Apaixonadap por tecnologia e inovação, busco constantemente aprimorar minhas habilidades e contribuir para projetos de alta qualidade.
+Desenvolvedora de software com experiência em múltiplas linguagens de programação, comprometida com a criação de soluções eficientes e escaláveis. Apaixonada por tecnologia e inovação, busco constantemente aprimorar minhas habilidades e contribuir para projetos de alta qualidade.
 
 ---
 
