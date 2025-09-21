@@ -14,7 +14,7 @@ Desenvolvedora de software com experiência em múltiplas linguagens de programa
 
 ## Contato
 
-- **Email:** [Email](contato.alanalisbinski@gmail.com)  
+- **Email:** [contato.alanalisbinski@gmail.com](contato.alanalisbinski@gmail.com)  
 - **Portfólio:** [Portfólio](https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA)  
 - **LinkedIn:** [LikedIn](https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
