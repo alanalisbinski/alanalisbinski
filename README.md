@@ -6,9 +6,9 @@ Desenvolvedora de software com experiência em múltiplas linguagens de programa
 
 ## Competências Técnicas
 
-- **Linguagens de Programação:** JavaScript, C++, Python  
-- **Desenvolvimento:** Algoritmos, Estruturas de Dados, Desenvolvimento Web, Automação  
-- **Ferramentas e Tecnologias:** VS Code, Node.js, Firebase, MySQL Workbench, Figma, Git, GitHub  
+- **Linguagens de Programação:** JavaScript, C++, Python.
+- **Desenvolvimento:** Algoritmos, Estruturas de Dados, Desenvolvimento Web, Automação.
+- **Ferramentas e Tecnologias:** VS Code, Node.js, Firebase, MySQL Workbench, Figma, Git, GitHub.
 
 ---
 
