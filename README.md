@@ -57,8 +57,8 @@ Javascript e Python.
 **A sua atividade recente será exibida aqui após a configuração do GitHub Action.**
 ---
 
-## 💌 Support Me (Opcional)
-
+## 💌 Support Me
+(contato.alanalisbinski@gmail.com)
 <div align="center">
     <p>Gostou do meu trabalho? Sinta-se à vontade para me apoiar ou apenas dar uma estrela em um dos meus projetos! 😉</p>
 </div>
