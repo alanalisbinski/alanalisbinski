@@ -1,31 +1,64 @@
-# AlanaLisbinski
-
-Desenvolvedora de software com experiência em múltiplas linguagens de programação, comprometida com a criação de soluções eficientes e escaláveis. Apaixonada por tecnologia e inovação, busco constantemente aprimorar minhas habilidades e contribuir para projetos de alta qualidade.
-
----
-
-## Competências Técnicas
-
-- **Linguagens de Programação:** JavaScript, C++, Python.
-- **Desenvolvimento:** Algoritmos, Estruturas de Dados, Desenvolvimento Web, Automação.
-- **Ferramentas e Tecnologias:** VS Code, Node.js, Firebase, MySQL Workbench, Figma, Git, GitHub.
+<div align="center">
+    <h1>MASTER JUDAH HERE 🔥!</h1>
+    <p>Namaste 🙏 I'm **alanalisbinski**</p>
+</div>
 
 ---
 
-## Contato
+## 💡 About Me
 
-- **Email:** [E-mail](mailto:contato.alanalisbinski@gmail.com)  
-- **Portfólio:** [Portfólio](https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA)  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alana-lisbinski-869123376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+<div align="center">
+    </div>
 
----
-
-## Estatísticas do GitHub
-
-![Alanalisbinski GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=radical)
+- 🧑‍💻 Comecei minha jornada com Full-Stack em 2023.
+- 🌱 Atualmente estou aprendendo sobre C++ e aprimorando minhas habilidades em 
+Javascript e Python.
+- 💼 Tenho experiência em Desenvolvimento de Software.
+- 📫 Como me encontrar: [contato.alanalisbinski@gmail.com] ou via [https://www.linkedin.com/in/alana-lisbinski-869123376/q].
+- ⚡ Curiosidade: Olá, você sabia que atualmente estou no Ensino médio e sou uma das melhores do meu cruso?
 
 ---
 
-*"Foco, disciplina e aprendizado contínuo são os pilares para o desenvolvimento de soluções eficazes."*
+## 🛠️ Linguagens & Ferramentas que eu uso
+
+<div align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=alanalisbinski&theme=nord&no-frame=true" alt="Troféus do GitHub" />
+</div>
+
+---
+
+## 📈 Atividade Recente no GitHub
+
+**A sua atividade recente será exibida aqui após a configuração do GitHub Action.**
+---
+
+## 💌 Support Me (Opcional)
+
+<div align="center">
+    <p>Gostou do meu trabalho? Sinta-se à vontade para me apoiar ou apenas dar uma estrela em um dos meus projetos! 😉</p>
+</div>
