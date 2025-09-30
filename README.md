@@ -1,6 +1,6 @@
 <div align="center">
     <h1>🌺 BEM-VINDO AO MEU PERFIL! 🌺</h1>
-    <p>I'm **alanalisbinski**</p>
+    <p>I'm alanalisbinski</p>
 </div>
 
 ---
