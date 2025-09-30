@@ -36,9 +36,9 @@
        alt="Profile Views Badge" /></a>
 
 <!-- Total Stars with GitHub Logo -->
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+<a href="https://github.com/alanalisbinski?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+       src="https://img.shields.io/github/stars/alanalisbinski?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
 <!-- Followers with GitHub Logo -->
 <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
