@@ -93,14 +93,7 @@
 
   
 <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski &theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-
-  
 </div>
-
-<br/><br/>
-
-
-
 <!-- lang-->
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
 
