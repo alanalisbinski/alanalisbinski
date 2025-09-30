@@ -4,7 +4,7 @@
 ✨ Transformo ideias em código e pixels em experiências memoráveis.  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Programando"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyMHhpYzBpaHVncmp6MjR2cHA1YWswbnpuMzkwcmMyNmJnbjk1cDE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QyPgvXCIQ1nbCRDIXS/giphy.gif" width="200" alt="Programando"/>
 </div>
 
 ---
