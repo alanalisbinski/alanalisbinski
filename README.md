@@ -29,14 +29,8 @@
 ## 🚀 Projetos em destaque
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/alanalisbinski/ReliquiasdeValderia" target="_blank">
     <img src="https://img.shields.io/badge/Projeto1-Visualize-blue?style=for-the-badge" alt="Projeto1"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src=""https://img.shields.io/badge/Projeto2-Visualize-green?style=for-the-badge" alt="Projeto2"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto3-Visualize-orange?style=for-the-badge" alt="Projeto3"/>
   </a>
 </p>
 
