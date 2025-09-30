@@ -70,7 +70,6 @@
     alt="YouTube Badge"></a>
 
  <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
 </div></h4>
 
 </div>
