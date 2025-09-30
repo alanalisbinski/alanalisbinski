@@ -1,44 +1,197 @@
-# alanalisbinski
 
-> Iniciei na programação aos 15 anos, atualmente estou no ensino médio e pretendo cursar Engenharia de Software.
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
 
-### 👨‍💻 Sobre Mim
+<a href="https://github.com/alanalisbinski/alanalisbinski/blob/main/fallout_grayscale%20(1).gif">
+  <img src="https://github.com/alanalisbinski/alanalisbinski/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
 
-Sou uma jovem programadora apaixonado por tecnologia e resolução de problemas. Estou sempre em busca de aprender e me desenvolver na área de software.
+<h1 align="left">
+<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
 
-### 🛠️ Linguagens & Ferramentas
 
-- **C++**
-- **JavaScript**
-- **Python**
+</h1>
+<h2 align="center">Hi, I'm Alana Lisbinski! 👩🏻‍💻</h2>
 
-### 📊 GitHub Stats
+<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
 
-![alanalisbinski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=dark)
+ <div align="center">
+<!-- Profile Views -->
+<a href="https://github.com/alanalisbinski" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=alanalisbinski &label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+       alt="Profile Views Badge" /></a>
 
-### 📌 Repositórios Fixados
+<!-- Total Stars with GitHub Logo -->
+<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total stars on GitHub"
+       src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-<!-- Você pode adicionar os seus repositórios aqui depois -->
-- [Repositório 1](URL_DO_REPOSITORIO_1) - Descrição do repositório.
-- [Repositório 2](URL_DO_REPOSITORIO_2) - Descrição do repositório.
+<!-- Followers with GitHub Logo -->
+<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
 
-### 📞 Contato
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@exemplo.com)
+    
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
-### 💖 Apoie Meu Trabalho
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/SEU_USER)
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
 
----
 
-### 📈 Atividade de Contribuição
 
-![Contribution Graph](https://github-readme-stats.vercel.app/api/gists?username=alanalisbinski&theme=dark)
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+<h4> 
+  🌱 I am currently working on and developing my programming skills.</br>
+ 🔭 I worked on .Net Framework and experience in ASP.net MVC.</br>
+ 💬 Skills I acquire in programming languages such as Python, SQL.</br>
+ ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
+ ✨ I only like perfection.</h4> <div align="left"> 
 
-*Construindo o futuro, linha por linha.*
+
+  <h3>🧲 Connect me :</h3>
+<a href="mailto:contato.alanalisbinski@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  
+  <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
+    alt="YouTube Badge"></a>
+
+ <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+-->
+</div></h4>
+
+</div>
+<br/>
+
+<!--Experence and experencing
+<h3 align="center">🔆 Work'ed and Wor'king</h3>
+<div align="center" style="display: flex; gap: 10px;">
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
+    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
+</div>-->
+
+
+
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=alanalisbinski&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
+
+  
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski &theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+
+  
+</div>
+
+<br/><br/>
+
+
+
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+</div>
+
+<br/>
+
+
+
+
+<!-- top repo and teck stack-->
+<div align="center">
+  <h3>⭐️ Best Repositories</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/alanalisbinski/Data-Science">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=Data-Science&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/alanalisbinski/Artificial-Intelligence">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
+    <a href="https://github.com/alanalisbinski/Generative-AI">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=Generative-AI&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+    <a href="https://github.com/alanalisbinski/MachineLearning-and-DeepLearning">
+        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=MachineLearning-and-DeepLearning&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
+</div>
+
+  
+  <h3>💻 Tech Stack:</h3>
+     <br/>
+  <div align="center">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </div>
+  <div align="center"> 
+  </div>
+
+
+
+<!--<h3>⭐ Top Contributed Repo!</h3>
+       <br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <br/>-->
+
+
+
+
+<!-- support -->
+<h3 align="center">Support Me 💰 </h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
+ <!-- <a href="https://buymeacoffee.com/joshuathadi">
+    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
+</p>
+
+
+<!--<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>-->
+
+
+
+<!-- ending-->
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+<p>⚠️ This README is uniquely designed by <strong>JoshuaThadi</strong>.
