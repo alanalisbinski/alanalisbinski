@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Projeto1-Visualize-blue?style=for-the-badge" alt="Projeto1"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Projeto2-Visualize-green?style=for-the-badge" alt="Projeto2"/>
+    <img src=""https://img.shields.io/badge/Projeto2-Visualize-green?style=for-the-badge" alt="Projeto2"/>
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Projeto3-Visualize-orange?style=for-the-badge" alt="Projeto3"/>
@@ -47,13 +47,13 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.seuportfolio.com" target="_blank">
+  <a href="https://alanalisbinski.github.io/Portfolio-alanalisbinski/?fbclid=PAZXh0bgNhZW0CMTEAAaecqyVcNxcRIMPDvL9VfZ-ygf1Zg9JNPmBMurF3WnVwNiSdP5hql4Qh8vZLQQ_aem_1WSyPF60XiYmoGT1IFIOCA">
     <img src="https://img.shields.io/badge/Portfólio-FF6F61?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Portfólio"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:contato.alanalisbinski@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
