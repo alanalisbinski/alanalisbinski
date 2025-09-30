@@ -15,7 +15,7 @@
 Javascript e Python.
 - 💼 Tenho experiência em Desenvolvimento de Software.
 - 📫 Como me encontrar: [contato.alanalisbinski@gmail.com] ou via [https://www.linkedin.com/in/alana-lisbinski-869123376/q].
-- ⚡ Curiosidade: Olá, você sabia que atualmente estou no Ensino médio e sou uma das melhores do meu cruso?
+- ⚡ Curiosidade: Olá, você sabia que atualmente tenho 18 anos e aprendi a programar aos 15?
 
 ---
 
