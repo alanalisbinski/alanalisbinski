@@ -28,13 +28,6 @@
 
 <h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in computer science while actively exploring emerging technologies.</h4>
 
-
- <div align="center">
-<!-- Profile Views -->
-<a href="https://github.com/alanalisbinski" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=alanalisbinski &label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
 <!-- Total Stars with GitHub Logo -->
 <a href="https://github.com/alanalisbinski?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
