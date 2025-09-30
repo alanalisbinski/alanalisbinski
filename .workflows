@@ -1,1 +1,21 @@
-readme.workflow.yml
+name: Atualizar atividades recentes
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # roda a cada 1h
+  workflow_dispatch:       # permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Atualizar README com atividades recentes
+        uses: readme-activity/gh-actions@v1.2.0
+        with:
+          GH_USERNAME: alanacristina
+          COMMIT_MSG: "Atualizando atividades recentes"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
