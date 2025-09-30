@@ -1,66 +1,36 @@
-```markdown
-# Olá! Eu sou *alanalisbinski* 👋
+Iniciei na programação aos 15 anos, atualmente estou no ensino médio e pretendo cursar Engenharia de Software.
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes.
+---
 
-## Sobre Mim
+### 🚀 Sobre Mim
 
-*   **Nome:** *alanalisbinski*
-*   **Profissão:** Desenvolvedor de Software
-*   **Interesses:** 💻 Inteligência Artificial, Machine Learning, Deep Learning, Data Science e Automação.
-*   **Jornada:** Comecei minha carreira em Desenvolvimento de Software com ASP.NET MVC. Tenho experiência em desenvolvimento Front-end e back-end, com foco em Data Science e RLM. Atualmente, estou cursando graduação em Ciência da Computação.
-*   **Fale comigo sobre:** 💬 Microsoft .NET Framework, Full Stack Development, Python, Inteligência Artificial, Machine Learning, Deep Learning, Data Science e Automação.
+Sou um entusiasta da tecnologia, com paixão por resolver problemas e construir soluções. Comecei minha jornada na programação aos 15 anos e, enquanto finalizo o Ensino Médio, já planejo ingressar em Engenharia de Software.
 
-## 🚀 Habilidades & Ferramentas
+### 🛠️ Linguagens & Ferramentas
 
-Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiência:
+Atualmente, foco meus estudos em:
 
-*   **Linguagens:** 🐍 Python, ☕ C#, 💻 JavaScript, 📦 SQL
-*   **Frameworks & Bibliotecas:** .NET, ASP.NET MVC, React, Node.js
-*   **Bancos de Dados:** SQL Server, PostgreSQL
-*   **Ferramentas:** Git, Docker, Azure DevOps
-*   **Outros:** Machine Learning, Deep Learning, Data Science
+- **C++**
+- **JavaScript**
+- **Python**
 
-## 📊 GitHub Stats
+<!-- Substitua o link abaixo pelo seu link do LinkedIn e e-mail -->
+### 📞 Contato
 
-```json
-{
-  "stats": {
-    "total_repos": 10,
-    "total_stars": 5,
-    "total_forks": 2,
-    "total_contributions_last_year": 50
-  },
-  "most_used_languages": [
-    "C#",
-    "JavaScript",
-    "Python"
-  ],
-  "tech_stack": [
-    "dotnet",
-    "react",
-    "nodejs",
-    "sql",
-    "azure",
-    "docker",
-    "git"
-  ]
-}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@exemplo.com)
+
+### 📊 GitHub Stats
+
+<!-- Use o widget gerado pelo GitHub para inserir suas estatísticas aqui. Você pode gerar o código no site do GitHub Stats. -->
+[![alanalisbinski's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📌 Repositórios Fixados
+
+<!-- Adicione seus repositórios aqui depois, usando o formato de fixação do GitHub. -->
+
+---
+*Construindo o futuro, linha por linha.*
 ```
 
-## 📫 Contatos
-
-*   **E-mail:** [seu-email@example.com](mailto:contato.alanalisbinski@gmail.com)
-*   **Portfólio:** [seu-portfolio.com](https://seu-portfolio.com)
-*   **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alana-lisbinski-869123376/)
-
-## 🏆 Repositórios em Destaque
-
-*   [Nome do Repositório 1](link-para-repositorio)  
-    Descrição breve do projeto.
-
-*   [Nome do Repositório 2](link-para-repositorio)  
-    Descrição breve do projeto.
-```
-
-Sinta-se à vontade para substituir os links e informações conforme necessário! Se precisar de mais ajustes, é só avisar!
+Buen avance: preencha os links de contato e insira o código das estatísticas do GitHub!
