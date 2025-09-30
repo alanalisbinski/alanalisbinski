@@ -34,7 +34,7 @@
   </a>
 </p>
 
-> Adicione descrições curtas e impactantes para cada projeto aqui.
+> Todos os meus melhores projetos aqui.
 
 ---
 
