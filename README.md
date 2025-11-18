@@ -91,7 +91,7 @@ Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230067B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6F00FF" />
+  <img src="https://img.shields.io/badge/LinkedIn-Glass?style=for-the-badge&logo=linkedin&logoColor=white&color=6A0DAD" />
 </a>
 
 <a href="mailto: contato.alanalisbinski@gmail.com">
