@@ -1,71 +1,102 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Dark Goth Vibes" width="150" style="border-radius:50%;" />
-</p>
+<div align="center">
 
-<h1 align="center" style="color:#c38fff; font-family: 'Courier New', monospace;">
-  🖤 Alana Cristina 🖤
-</h1>
+<img src="https://github.com/alanalisbinski.png" width="130" style="border-radius:50%;" />
 
-<p align="center" style="color:#d6c9ff; font-family: 'Courier New', monospace; font-size:1.1rem; font-style: italic;">
-  "Codificando nas sombras, tecendo arte no escuro e desvendando mistérios digitais."
-</p>
+# 🌙✨ Alana Cristina — Full-Stack Developer & Dark UI Enthusiast  
 
----
+💻 Desenvolvedora Full-Stack • 🎨 Web Designer • 🌍 Brasil ➜ Alemanha  
 
-<div align="center" style="background:#1e1e2f; border-radius: 15px; padding: 25px; max-width: 720px; margin: auto;">
+**Vibing to dark UI • Coding like a shadow • Designing smooth experiences**  
 
-### 👩‍💻 Sobre mim
+<br/>
 
-- Desenvolvedora Full-Stack & Web Designer apaixonada por paletas escuras e UX imersiva  
-- Baseada na Alemanha, explorando o universo tech e artístico à meia-noite  
-- Amante de poesia, darkwave e fotografia noturna  
-- Poliglota: português, inglês, espanhol, francês e russo
+<img src="https://komarev.com/ghpvc/?username=alanalisbinski&color=blueviolet" />
 
----
+</div>
 
-### 🔮 Tecnologias & Ferramentas
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+# 🎧 My Vibe Statement
+
+🔥 *"Olá, sou alanalisbinski e sou uma fã de Rock, principalmente da banda AC/DC.”*  
+
+Sou uma desenvolvedora Full-Stack em formação - Já desenvolvi alguns projetos como Sites e jogos simples, estou sempre buscando melhorar meus projetos.
 
 ---
 
-### 📂 Projetos em destaque
+# 🧰 Tech Stack & Arsenal
 
-| Projeto | Descrição | Link |
-|--------|----------|-------|
-| **Portfolio Dark** | Website pessoal com design dark minimalista e animações sutis | [Ver no GitHub](https://github.com/alanacristina/portfolio-dark) |
-| **API Sombria** | API RESTful para gestão de dados sensíveis com foco em segurança | [Ver no GitHub](https://github.com/alanacristina/api-sombria) |
-| **NightPhoto** | App de fotografia noturna com filtros exclusivos dark | [Ver no GitHub](https://github.com/alanacristina/nightphoto) |
+### **Linguagens**
+💛 JavaScript • 💙 TypeScript • 🐍 Python • 🟣 SQL • 💜 HTML/CSS  
+
+### **Frontend**
+⚡ React • Next.js • TailwindCSS • SASS • Styled Components  
+
+### **Backend**
+🛰 Node.js • Express • Django • FastAPI  
+
+### **Banco & Infra**
+🗄 PostgreSQL • MongoDB • Redis  
+🐳 Docker • GitHub Actions • Vercel / Netlify  
+
+### **Design & Ferramentas**
+🎨 Figma • Adobe XD  
+🧪 Postman • Insomnia • n8n Automations  
 
 ---
 
-### 📫 Como me encontrar
+# 📊 GitHub Stats & Grind
 
-<p>
-  <a href="mailto:seu-email@example.com" target="_blank" rel="noopener" style="color:#c38fff; text-decoration:none; margin-right: 10px;">✉️ Email</a> |
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank" rel="noopener" style="color:#c38fff; text-decoration:none; margin: 0 10px;">LinkedIn</a> |
-  <a href="https://github.com/alanacristina" target="_blank" rel="noopener" style="color:#c38fff; text-decoration:none; margin-left: 10px;">GitHub</a>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Coding in the dark" width="200" style="border-radius: 15px; box-shadow: 0 0 15px #c38fff;" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alanalisbinski&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
 ---
 
-<p align="center" style="font-family: 'Courier New', monospace; font-size: 0.9rem; color: #888;">
-  Criado com ⚡ e energia das trevas ☽
-</p>
+# 🧩 Epic Projects & Quests
 
+💠 **Portfolio Dark Minimal** — Design + Dev (Next.js + Tailwind)  
+🔗 https://alanalisbinski.github.io/portfolio-alanalisbinski/
+
+⚡ **Automation Hub** — automações com n8n, bots e workflows inteligentes
+
+🧠 **AI Tools Collection** — mini ferramentas com Python, FastAPI, HuggingFace
+
+🎨 **UI Library Dark** — componentes estilizados seguindo estética roxa + black
+
+📦 **Full-Stack Boilerplate** — Auth, Themes, API, DB, tudo pronto pra escalar
+
+---
+
+# 🎯 Mission & Endgame
+
+🕯 **Now:** dominar arquitetura full-stack e automações avançadas  
+🚀 **Next:** criar um SaaS próprio  
+👑 **Ultimate Goal:** ser referência em UI dark + sistemas escaláveis  
+🛠 **Side Quests:** estudar engenharia de software e construir projetos épicos
+
+---
+
+# 🤝 Let’s Team Up!
+
+Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design.
+
+<div align="center">
+
+[📎 LinkedIn](https://www.linkedin.com/in/alana-lisbinski-869123376/) • 
+[✉️ Email](mailto:alanalisbinski9@gmail.com) •  
+
+</div>
+
+<br/>
+
+<div align="center">
+✨ *Crafted in dark mode. Always.* ✨
 </div>
