@@ -91,11 +91,11 @@ Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design
 <div align="center">
 
 <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Glass?style=for-the-badge&logo=linkedin&logoColor=white&color=6A0DAD" />
+  <img src="https://img.shields.io/badge/Email-%23B5179E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=560BAD" />
 </a>
 
 <a href="mailto: contato.alanalisbinski@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-%23B5179E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=560BAD"/>
 </a>
 </a>
 </div>
