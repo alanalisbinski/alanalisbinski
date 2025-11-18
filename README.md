@@ -90,9 +90,13 @@ Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design
 
 <div align="center">
 
-[📎 LinkedIn](https://www.linkedin.com/in/alana-lisbinski-869123376/) • 
-[✉️ Email](mailto:alanalisbinski9@gmail.com) •  
+<a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230067B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6F00FF" />
+</a>
 
+<a href="mailto: contato.alanalisbinski@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23B5179E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=560BAD" />
+</a>
 </div>
 
 <br/>
