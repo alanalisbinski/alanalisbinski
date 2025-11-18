@@ -95,7 +95,8 @@ Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design
 </a>
 
 <a href="mailto: contato.alanalisbinski@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23B5179E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=560BAD" />
+  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </a>
 </div>
 
