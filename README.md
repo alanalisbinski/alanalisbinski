@@ -1,107 +1,29 @@
-<div align="center">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alana Cristina
+=======================================================================================================================================
 
-<img src="https://github.com/alanalisbinski.png" width="130" style="border-radius:50%;" />
+I'am a Full-Stack developer
+---------------------------
 
-# 🌙✨ Alana Cristina — Full-Stack Developer & Dark UI Enthusiast  
+Olá, me chamo Alana Cristina Lisbinski, tenho 18 anos e estou no ensino médio técnico em desenvolvimento de sistemas. Eu pretendo trabalhar como desenvolvedora Full-Stack na Alemanha, França e Brasil. Também pretendo fazer faculdade de Engenharia de software ano que vem.
 
-💻 Desenvolvedora Full-Stack • 🎨 Web Designer • 🌍 Brasil ➜ Alemanha  
+* 🌍  I'm based in Brazil
+* 🖥️  See my portfolio at [Porfolio Pessoal](http://alanalisbinski.github.io/alana-fullstack-portfolio/)
+* ✉️  You can contact me at [Contato.alanalisbinski@gmail.com](mailto:Contato.alanalisbinski@gmail.com)
+* 🧠  I'm currently learning on a Landing page
 
-**Vibing to dark UI • Coding like a shadow • Designing smooth experiences**  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
-<br/>
+### Socials
 
-<img src="https://komarev.com/ghpvc/?username=alanalisbinski&color=blueviolet" />
+<p align="left"> <a href="https://www.github.com/alanalisbinski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Badges
 
-</div>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/alanalisbinski"><img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="alanalisbinski's GitHub stats" /></a>
 
-# 🎧 My Vibe Statement
+<b>Top Repositories</b>
 
-🔥 *"Olá, sou alanalisbinski e sou uma fã de Rock, principalmente da banda AC/DC.”*  
-
-Sou uma desenvolvedora Full-Stack em formação - Já desenvolvi alguns projetos como Sites e jogos simples, estou sempre buscando melhorar meus projetos.
-
----
-
-# 🧰 Tech Stack & Arsenal
-
-### **Linguagens**
-💛 JavaScript • 💙 TypeScript • 🐍 Python • 🟣 SQL • 💜 HTML/CSS  
-
-### **Frontend**
-⚡ React • Next.js • TailwindCSS • SASS • Styled Components  
-
-### **Backend**
-🛰 Node.js • Express • Django • FastAPI  
-
-### **Banco & Infra**
-🗄 PostgreSQL • MongoDB • Redis  
-🐳 Docker • GitHub Actions • Vercel / Netlify  
-
-### **Design & Ferramentas**
-🎨 Figma • Adobe XD  
-🧪 Postman • Insomnia • n8n Automations  
-
----
-
-# 📊 GitHub Stats & Grind
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alanalisbinski&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-# 🧩 Epic Projects & Quests
-
-💠 **Portfolio Dark Minimal** — Design + Dev (Next.js + Tailwind)  
-🔗 https://alanalisbinski.github.io/portfolio-alanalisbinski/
-
-⚡ **Automation Hub** — automações com n8n, bots e workflows inteligentes
-
-🧠 **AI Tools Collection** — mini ferramentas com Python, FastAPI, HuggingFace
-
-🎨 **UI Library Dark** — componentes estilizados seguindo estética roxa + black
-
-📦 **Full-Stack Boilerplate** — Auth, Themes, API, DB, tudo pronto pra escalar
-
----
-
-# 🎯 Mission & Endgame
-
-🕯 **Now:** dominar arquitetura full-stack e automações avançadas  
-🚀 **Next:** criar um SaaS próprio  
-👑 **Ultimate Goal:** ser referência em UI dark + sistemas escaláveis  
-🛠 **Side Quests:** estudar engenharia de software e construir projetos épicos
-
----
-
-# 🤝 Let’s Team Up!
-
-Pronta para colaborar, criar algo foda, ou só trocar uma ideia sobre dev/design.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%23B5179E?style=for-the-badge&logo=likedin&logoColor=white&labelColor=560BAD" />
-</a>
-
-<a href="mailto: contato.alanalisbinski@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23B5179E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=560BAD"/>
-</a>
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-✨ *Crafted in dark mode. Always.* ✨
-</div>
+<div width="100%" align="center"><a href="https://github.com/alanalisbinski/ReliquiasdeValderia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=ReliquiasdeValderia&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
