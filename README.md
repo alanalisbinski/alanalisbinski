@@ -8,7 +8,7 @@ Olá, me chamo Alana Cristina Lisbinski, tenho 18 anos e estou no ensino médio 
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [Portfolio Pessoal](http://alanalisbinski.github.io/alana-fullstack-portfolio/)
-* ✉️  You can contact me at [Contato.alanalisbinski@gmail.com](mailto:Contato.alanalisbinski@gmail.com)
+* ✉️  You can contact me at [E-mail para contato](mailto:Contato.alanalisbinski@gmail.com)
 * 🧠  I'm currently learning on a Landing page
 
 <p align="left">
