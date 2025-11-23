@@ -7,7 +7,7 @@ I'am a Full-Stack developer
 Olá, me chamo Alana Cristina Lisbinski, tenho 18 anos e estou no ensino médio técnico em desenvolvimento de sistemas. Eu pretendo trabalhar como desenvolvedora Full-Stack na Alemanha, França e Brasil. Também pretendo fazer faculdade de Engenharia de software ano que vem.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Porfolio Pessoal](http://alanalisbinski.github.io/alana-fullstack-portfolio/)
+* 🖥️  See my portfolio at [Portfolio Pessoal](http://alanalisbinski.github.io/alana-fullstack-portfolio/)
 * ✉️  You can contact me at [Contato.alanalisbinski@gmail.com](mailto:Contato.alanalisbinski@gmail.com)
 * 🧠  I'm currently learning on a Landing page
 
