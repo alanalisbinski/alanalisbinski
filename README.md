@@ -53,7 +53,7 @@
 ## Vamos conversar? 💌
 
 <p align="center">
-  📧 [alanalisbinski@email.com](mailto:alanalisbinski@email.com) <br />
+  📧 [E-mail](mailto:contato.alanalisbinski@email.com) <br />
   🌐 Seja bem-vindo ao meu GitHub! Vamos criar juntos?
 </p>
 
