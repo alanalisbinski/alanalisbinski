@@ -1,28 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alana Cristina
-=======================================================================================================================================
-
-I'am a Full-Stack developer
----------------------------
-
-Olá, me chamo Alana Cristina Lisbinski, tenho 18 anos e estou no ensino médio técnico em desenvolvimento de sistemas. Eu pretendo trabalhar como desenvolvedora Full-Stack na Alemanha, França e Brasil. Também pretendo fazer faculdade de Engenharia de software ano que vem.
-
-* 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Portfolio Pessoal](http://alanalisbinski.github.io/alana-fullstack-portfolio/)
-* ✉️  You can contact me at [E-mail para contato](mailto:Contato.alanalisbinski@gmail.com)
-* 🧠  I'm currently learning on a Landing page
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<!-- Banner roxo com estilo moderno -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/alanalisbinski/roxo-banner.svg" alt="Banner Alana Lisbinski" width="700" />
 </p>
 
-### Socials
+<h1 align="center" style="color:#7B2FF7; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Olá, eu sou a <span style="color:#B565F6;">Alana Lisbinski</span> 👩‍💻
+</h1>
 
-<p align="left"> <a href="https://www.github.com/alanalisbinski" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<p align="center" style="font-size: 1.2rem; color:#D8B4FE;">
+  Desenvolvedora Fullstack | Apaixonada por código e design <br/>
+  Exploradora do universo roxo da tecnologia 💜
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/alanalisbinski"><img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="alanalisbinski's GitHub stats" /></a>
+## Sobre mim 🚀
 
-<b>Top Repositories</b>
+- 💜 Entusiasta de tecnologias web modernas, design responsivo e acessibilidade
+- 🔭 Atualmente focando em React, Node.js e Typescript
+- 📚 Amante de livros, café e maratonas de séries tech
+- 🎯 Objetivo: Criar soluções simples, bonitas e que impactem vidas
 
-<div width="100%" align="center"><a href="https://github.com/alanalisbinski/ReliquiasdeValderia" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alanalisbinski&repo=ReliquiasdeValderia&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+
+## Minhas tecnologias favoritas 💻
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-7B2FF7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-7B2FF7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-7B2FF7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-7B2FF7?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+---
+
+## Meus links 🌐
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanalisbinski" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alanalisbinski@email.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://alanalisbinski.github.io" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.shields.io/badge/Portfólio-7B2FF7?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
+
+---
+
+## Vamos conversar? 💌
+
+<p align="center">
+  📧 [alanalisbinski@email.com](mailto:alanalisbinski@email.com) <br />
+  🌐 Seja bem-vindo ao meu GitHub! Vamos criar juntos?
+</p>
+
+---
+
+<p align="center" style="color:#B565F6;">
+  Feito com 💜 por Alana Lisbinski
+</p>
