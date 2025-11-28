@@ -1,64 +1,64 @@
-<!-- Banner roxo com estilo moderno -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/alanalisbinski/roxo-banner.svg" alt="Banner Alana Lisbinski" width="700" />
-</p>
-
-<h1 align="center" style="color:#7B2FF7; font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Olá, eu sou a <span style="color:#B565F6;">Alana Lisbinski</span> 👩‍💻
-</h1>
-
-<p align="center" style="font-size: 1.2rem; color:#D8B4FE;">
-  Desenvolvedora Fullstack | Apaixonada por código e design <br/>
-  Exploradora do universo roxo da tecnologia 💜
-</p>
+<div align="center">
+    <img src="https://i.imgur.com/your-header-image.png" alt="Header do Perfil" width="80%">
+    <h1>👋 Hi, I'm Alana Lisbinski!</h1>
+    <h3>I'm a Full-Stack developer</h3>
+</div>
 
 ---
 
-## Sobre mim 🚀
+### 🚀 Sobre Mim
 
-- 💜 Entusiasta de tecnologias web modernas, design responsivo e acessibilidade
-- 🔭 Atualmente focando em React, Node.js e Typescript
-- 📚 Amante de livros, café e maratonas de séries tech
-- 🎯 Objetivo: Criar soluções simples, bonitas e que impactem vidas
+Eu sou uma desenvolvedora Full-Stack com 3 anos de carreira iniciei em 2023 quando inciei o curso no ensino médio, futuramente eu pretendo fazer alguma faculdade de Engenharia de software ou ciências de dados, também procuro trabalhar fora do país como Alemanha ou Itália.
 
----
+Atualmente estou trabalhando em atualizar e melhorar meu portfólio pessoal e constantemente explorando novas tecnologias como C++ e C#.
 
-## Minhas tecnologias favoritas 💻
+Meu objetivo é trabalhar em melhorias para empresas fora do país como Alemanha, Itália e França.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-7B2FF7?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-7B2FF7?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-7B2FF7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-7B2FF7?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+<br>
 
----
+### 🛠️ Minhas Principais Habilidades
 
-## Meus links 🌐
+| Categoria | Habilidades |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` / `TypeScript` / `Python` / `Java` |
+| **Frameworks/Libs** | `React` / `Node.js` / `Next.js` / `Spring Boot` |
+| **Banco de Dados** | `PostgreSQL` / `MongoDB` / `Redis` |
+| **DevOps & Cloud** | `Docker` / `Kubernetes` / `AWS` / `Terraform` |
+| **Outros** | `Git` / `REST APIs` / `Testes Unitários` / `Metodologias Ágeis` |
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alanalisbinski" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alanalisbinski@email.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://alanalisbinski.github.io" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Portfólio-7B2FF7?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
+<br>
 
----
+### 📈 Estatísticas do GitHub (Opcional, mas recomendado)
 
-## Vamos conversar? 💌
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&langs_count=7&theme=buefy"/>
+</div>
+<br>
 
-<p align="center">
-  📧 [E-mail](mailto:contato.alanalisbinski@email.com) <br />
-  🌐 Seja bem-vindo ao meu GitHub! Vamos criar juntos?
-</p>
+### 🔗 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alana-lisbinski-869123376/]) |
+| **Portfólio** | [![Website Badge](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([]) |
+| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.alanalisbinski@gmail.com) |
+
+<br>
 
 ---
 
-<p align="center" style="color:#B565F6;">
-  Feito com 💜 por Alana Lisbinski
-</p>
+#### 📌 Projetos em Destaque
+
+Confira alguns dos meus repositórios mais recentes ou projetos que estou mais orgulhosa!
+
+- ✨ **Reliquías de Valderia**: Um projeto pessoal de minha autoria onde eu criei apartir de uma atividade escolar, ele é um sistema de inventário estilo RPG medieval.
+
+<br>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=alanalisbinski&style=flat-square&color=blue" alt="Perfil views" />
+    <p>Obrigado pela visita! Ficarei feliz em colaborar.</p>
+</div>
