@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.bing.com/images/search?view=detailV2&ccid=YEcOU%2feJ&id=2ABC510C9DDACDCC62762C4F6BE30589AE7BD05E&thid=OIP.YEcOU_eJnLpemyg6Wpr5tAHaCd&mediaurl=https%3a%2f%2fi.pinimg.com%2f736x%2f46%2ff1%2fa3%2f46f1a3193f1108dfaef11279155f7215.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.60470e53f7899cba5e9b283a5a9af9b4%3frik%3dXtB7rokF42tPLA%26pid%3dImgRaw%26r%3d0&exph=245&expw=736&q=header+aesthetic+cats&FORM=IRPRST&ck=0B3550294AFBE0A1BCF95B5C9F9071CC&selectedIndex=27&itb=0" alt="Header do Perfil" width="80%">
+    <img src="" alt="Header do Perfil" width="80%">
     <h1>👋 Hi, I'm Alana Lisbinski!</h1>
     <h3>I'm a Full-Stack developer</h3>
 </div>
