@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/gK9tE0D.png" alt="Banner de Gato" width="80%">
+    <img src="//imgur.com/odfYAlB.png" alt="Banner de Gato" width="80%">
     <h1>👋 Hi, I'm Alana Lisbinski!</h1>
     <h3>I'm a Full-Stack developer</h3>
 </div>
