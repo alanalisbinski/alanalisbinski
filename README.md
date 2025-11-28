@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="//imgur.com/odfYAlB.png" alt="Banner de Gato" width="80%">
+    <blockquote class="imgur-embed-pub" lang="en" data-id="odfYAlB"  ><a href="//imgur.com/odfYAlB">Mogeko Castle Hecha por mí</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
     <h1>👋 Hi, I'm Alana Lisbinski!</h1>
     <h3>I'm a Full-Stack developer</h3>
 </div>
