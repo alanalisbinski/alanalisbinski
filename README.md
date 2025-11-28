@@ -41,7 +41,7 @@ Meu objetivo é trabalhar em melhorias para empresas fora do país como Alemanha
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/alana-lisbinski-869123376/]) |
-| **Portfólio** | [![Website Badge](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([]) |
+| **Portfólio** | [![Website Badge](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white)]([https://alanalisbinski.github.io/alana-fullstack-portfolio/]) |
 | **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.alanalisbinski@gmail.com) |
 
 <br>
