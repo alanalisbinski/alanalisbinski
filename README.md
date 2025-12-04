@@ -77,20 +77,17 @@
 <h2 align="left">✉️ --Contact-me-- ✉️</h2>
 
 ###
+
 <div align="left">
-    <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank" title="Visitar meu perfil no LinkedIn">
-    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#0A66C2">
-      <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.528-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.767 7 2.288v6.947z"/>
-    </svg>
+    <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img width="15" />   
-    <a href="mailto:contact.alanalisbinski@gmail.com" title="Enviar um email">
-    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#D44638">
-      <path d="M24 20h-24v-16h24v16zm-22-14.774v13.548l8.373-6.764-8.373-6.784zm3.036 1.442l5.77 4.67 5.769-4.67h-11.539zm-3.036 12.132l7.568-6.848 1.432 1.157 7.568-6.848v13.548h-16.568z"/>
-    </svg>
+  
+    <a href="mailto:contact.alanalisbinski@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img width="15" />     <a href="#SEU_LINK_DO_PORTFOLIO" target="_blank" title="Visitar meu Portfólio de Projetos">
-    <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 24 24" fill="#4CAF50">       <path d="M22 6h-6V4c0-1.103-.897-2-2-2h-4c-1.103 0-2 .897-2 2v2H2c-1.103 0-2 .897-2 2v10c0 1.103.897 2 2 2h20c1.103 0 2-.897 2-2V8c0-1.103-.897-2-2-2zm-8-2h-4v2h4V4zM2 18V8h20l-.001 10H2z"/>
-    </svg>
+
+      <a href="#SEU_LINK_DO_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfólio" />
   </a>
 </div>
