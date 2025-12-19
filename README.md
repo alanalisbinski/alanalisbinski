@@ -35,19 +35,15 @@
   ⊹₊ ⋆ Ferramentas que utilizo na minha jornada da Programação: São elas que me acompanham todos os dias enquanto eu descubro, aprendo e crio soluções incríveis com código. Cada uma tem seu papel especial nessa trajetória cheia de bugs, conquistas e sonhos tech! ☕💻✨
   <h2>──★˙🍓̟!Languages</h2>
   <img align="center" alt="mary-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mary-ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
  <img align="center" alt="mary-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mary-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mary-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mary-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <h2>⋆｡‧°ʚ🍒ɞ°‧｡⋆Data Base</h2>
   <img align="center" alt="mary-MySQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <h2>⭒ː͡➘₊̣̇⚔️ː͡➘₊̣̇Cybersecurity Tools</h2>
   <img align="center" alt="mary-Kali" height="70" width="70" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"/>
   <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
   <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="mary-Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="mary-Eclipse" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
   <img align="right" alt="sylus-png" height="135" width="135" src="https://static.wikia.nocookie.net/loveanddeepspace/images/b/bb/Sylus_Likes_Chibi.png/revision/latest/smart/width/250/height/250?cb=20240727211912">
 </div>
   
