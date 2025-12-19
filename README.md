@@ -6,7 +6,7 @@
   
 ## 🎀 ៸៸ ꒰ 👩🏻‍💻 tech girl ꒱ 彡 ·˚
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Hello,+I+am+Alana+%C3%81Lisbinski!;But+you+can+call+me+Lana+;I'm+18+years+old;I'm+a++Development+;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6897&width=435&lines=Hello,+I+am+Alana+%C3%81Lisbinski!;But+you+can+call+me+Lana+;I have+18+years+old;I'm+a++Full-Stack development+;Welcome+to+my+profile!)](https://git.io/typing-svg)
 </div>
 
 ## 
