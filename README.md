@@ -44,7 +44,7 @@
   <img align="center" alt="mary-Kali" height="70" width="70" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000"/>
   <h2>꒰ 🥥 ꒱ؘ ࿐ ࿔*:･ﾟIDEs</h2>
   <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img align="right" alt="sylus-png" height="135" width="135" src="https://static.wikia.nocookie.net/loveanddeepspace/images/b/bb/Sylus_Likes_Chibi.png/revision/latest/smart/width/250/height/230?cb=20240727211912">
+  <img align="right" alt="sylus-png" height="130" width="130" src="https://static.wikia.nocookie.net/loveanddeepspace/images/b/bb/Sylus_Likes_Chibi.png/revision/latest/smart/width/250/height/230?cb=20240727211912">
 </div>
   
   # 🍰࣪˖ / 💌 ꒰ How to contact me ꒱ ᘏ (🌷) 
