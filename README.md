@@ -53,7 +53,7 @@
 
   <a href="https://www.linkedin.com/in/alana-lisbinski-869123376/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:contato.alanalisbinski"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://alanalisbinski.github.io/portfolio-alanacristina/"><img src="https://img.shields.io/badge/portfolio-D14836?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://alanalisbinski.github.io/portfolio-alanacristina/"><img src="https://img.shields.io/badge/portfolio-A9A9A9?style=for-the-badge&logo=github&logoColor=white"></a>
 
   
   
