@@ -24,11 +24,15 @@
 
 ⬪:˵ˊ✨ Eu gosto de estudar sobre tecnologia e prefiro trabalhar Home Office fora do país, como Alemanha e Itália. 
 
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+  height="150"
+/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanalisbinski&locale_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanalisbinski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanalisbinski&layout=compact&langs_count=6&theme=dracula" 
+  height="150"
+/>
 
 # ꒰🌼꒱ ५◦ My Tools ★ 𓂃
 <div style="display: inline_block"><br>
